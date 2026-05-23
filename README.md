@@ -4,7 +4,7 @@ Optimize your resume to pass Applicant Tracking Systems (ATS) by analyzing it ag
 
 ## Live URL
 
-[https://ats-resume-optimizer.vercel.app](https://ats-resume-optimizer.vercel.app)
+[https://ats-resume-optimizer-ochre.vercel.app](https://ats-resume-optimizer-ochre.vercel.app)
 
 ## Features
 
